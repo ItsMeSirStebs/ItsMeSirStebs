@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi
 
-<!--
-**ItsMeSirStebs/ItsMeSirStebs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Engineer enthusiast learning up-to-date tech to allow industries on getting structured, streamlined, automated data for business consumption. I've worked developing ETLs using Python and created PowerBI reports using DAX.
 
-Here are some ideas to get you started:
+## Tools and Languages
+- Python, SQL, a bit of Java and Excel VBA for Automation Workflows.
+- Currently learning Spark (PySpark), Airflow, and dbt.
+- Amazon Web Services
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About me
+- I like classical music, indie videogames and nature.
